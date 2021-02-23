@@ -1,0 +1,61 @@
+ *.bak
+ *.ddk
+ *.edk 
+ *.lst
+ *.lnp
+ *.mpf 
+ *.mpj 
+ *.obj
+ *.omf 
+
+ *.plg 
+ *.rpt
+ *.tmp 
+ *.__i 
+ *.crf 
+ *.o 
+ *.d 
+ *.axf 
+ *.tra
+ *.dep 
+ JLinkLog.txt 
+ *.iex 
+ *.htm 
+ *.sct 
+ *.map 
+
+
+*.aps
+*.ncb
+*.exp
+*.opendb
+*.db
+*.opensdf
+*.sdf
+
+*.ilk
+*.obj
+*.iobj
+
+*.tlog
+*.log
+*.tmp
+
+*.pch
+
+*.res
+*.user
+
+*.dll
+*.exe
+*.lib
+
+x64/
+Win32/
+Debug/
+Release/
+ipch/
+.vs/
+obj/
+backup/
+
