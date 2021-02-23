@@ -50,6 +50,9 @@
 *.exe
 *.lib
 
+
+PROJECT/Objects
+
 x64/
 Win32/
 Debug/
